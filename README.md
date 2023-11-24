@@ -15,6 +15,8 @@ Foram utilizados as seguintes técnologias: <br>
   HTML para estrutura, CSS ao qual utilizei flex box para alinhar os elementos.
   Javascript com várias funcioções de mostrar na tela as tarefas, o botão que pega o valor do input.value para mostrar na tela, além de usar localstorage armazenamento local
   para que os dados não sejam perdidos. Além de que bloquear caso o usuário queira adicionar um item a lista em branco, utilizei array.pop para exclui-lo.
+  
+<hr>
 
   Segue abaixo as imagens do projeto: 
 
